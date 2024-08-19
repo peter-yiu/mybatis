@@ -1,7 +1,7 @@
-package com.fyber.backend.mapper;
+package com.alicorn.backend.mapper;
 
 
-import com.fyber.backend.entity.Book;
+import com.alicorn.backend.entity.Book;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

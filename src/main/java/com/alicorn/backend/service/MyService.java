@@ -1,4 +1,4 @@
-package com.fyber.backend.service;
+package com.alicorn.backend.service;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

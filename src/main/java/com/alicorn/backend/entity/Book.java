@@ -1,4 +1,4 @@
-package com.fyber.backend.entity;
+package com.alicorn.backend.entity;
 
 
 import lombok.Getter;

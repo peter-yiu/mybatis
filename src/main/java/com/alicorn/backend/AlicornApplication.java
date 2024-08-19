@@ -1,13 +1,13 @@
-package com.fyber.backend;
+package com.alicorn.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FyberApplication {
+public class AlicornApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FyberApplication.class, args);
+		SpringApplication.run(AlicornApplication.class, args);
 	}
 
 }

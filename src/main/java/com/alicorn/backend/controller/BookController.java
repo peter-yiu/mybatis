@@ -1,7 +1,7 @@
-package com.fyber.backend.controller;
+package com.alicorn.backend.controller;
 
-import com.fyber.backend.entity.Book;
-import com.fyber.backend.service.BookService;
+import com.alicorn.backend.entity.Book;
+import com.alicorn.backend.service.BookService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

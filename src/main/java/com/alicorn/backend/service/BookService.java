@@ -1,8 +1,8 @@
-package com.fyber.backend.service;
+package com.alicorn.backend.service;
 
 
-import com.fyber.backend.entity.Book;
-import com.fyber.backend.mapper.BookMapper;
+import com.alicorn.backend.entity.Book;
+import com.alicorn.backend.mapper.BookMapper;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

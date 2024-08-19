@@ -1,4 +1,4 @@
-package com.fyber.backend;
+package com.alicorn.backend;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

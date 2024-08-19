@@ -8,10 +8,10 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fyber</groupId>
-	<artifactId>fyber-mybatis</artifactId>
+	<groupId>com.alicorn</groupId>
+	<artifactId>alicorn-mybatis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Fyber Mybatis</name>
+	<name>Alicorn Mybatis</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
