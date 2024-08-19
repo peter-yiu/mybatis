@@ -12,7 +12,7 @@ import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;
 //@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.NONE)
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class IntegrateFyberApplicationTest {
+class IntegrateAlicornApplicationTest {
 
 	@Test
 	void contextLoads() {
